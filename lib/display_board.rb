@@ -7,3 +7,8 @@ def display_board
   2.times do
   puts row
   puts dash
+  puts row
+  puts dash
+  puts row
+
+display_board
