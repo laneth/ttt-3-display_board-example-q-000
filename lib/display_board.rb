@@ -3,4 +3,4 @@ def display_board
   cell = "   "
   pipe "|"
   row = cell + pipe + cell + pipe + cell
-  
+  dash = 
