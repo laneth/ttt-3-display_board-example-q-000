@@ -4,7 +4,7 @@ def display_board
   pipe "|"
   row = cell + pipe + cell + pipe + cell
   dash = '-' * 11
-  2.times do
+  
   puts row
   puts dash
   puts row
