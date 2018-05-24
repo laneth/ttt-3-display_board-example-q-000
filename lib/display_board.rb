@@ -10,5 +10,6 @@ def display_board
   puts row
   puts dash
   puts row
+end
 
 display_board
